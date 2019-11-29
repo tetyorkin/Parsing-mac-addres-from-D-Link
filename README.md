@@ -4,8 +4,8 @@ Parse MAC addresses devices of Mikrotic via SNMP from D-link switches.
 ## Result in result.txt
 For example
 ```
-{'mac': '4C:5E:0C:20:DC:96', 'vlan': '1208', 'port': '25', 'ip': '172.26.0.34'}
-{'mac': '4C:5E:0C:20:DC:96', 'vlan': '1208', 'port': '25', 'ip': '172.26.0.34'} 
+{'mac': '6C:3B:6B:DF:A2:F0', 'vlan': '301', 'port': '26', 'ip': '172.26.12.10'} 
+{'mac': 'E4:8D:8C:93:53:30', 'vlan': '1122', 'port': '22', 'ip': '172.26.12.101'} 
 ```
 ## List of ip address switches in ip all.txt
 ```
